@@ -1,2 +1,2 @@
 # Travel-list-App
-A travel list app
+A travel list application
